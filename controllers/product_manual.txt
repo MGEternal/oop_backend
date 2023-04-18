@@ -1,0 +1,23 @@
+router
+catagory_by_name
+{
+    "cataname" : "cateTest1"
+}
+
+router
+add_keyboard_to_catagory
+{
+    "cataname" : "cateTest1",
+    "id" : "001",
+    "name" : "K2 SSR",
+    "price" : "1200",
+    "description" : "A mechanical keyboard with RGB backlight",
+    "image" : "sefaf.png",
+    "qty" : "20",
+    "last_update" : "3-03-2023",
+    "version" : "v4",
+    "type" : "wireless",
+    "switches" : "blue switches",
+    "color" : "backlight"
+    
+}
